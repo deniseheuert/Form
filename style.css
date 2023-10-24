@@ -1,10 +1,9 @@
 
-#titulo{
+#titulo {
+    text-align: center;
+}
 
-color:red;
-
-text-align: justify;
-
-font-size: 20px;
-
+.texto {
+    color: #181661;
+    text-align: center;
 }
