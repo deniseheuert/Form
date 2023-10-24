@@ -1,8 +1,10 @@
-#titulo{
-  text-align:center;
 
-}
-.texto {
-  color:#ff6347;
-  text-align:center;
+#titulo{
+
+color:red;
+
+text-align: justify;
+
+font-size: 20px;
+
 }
