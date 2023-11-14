@@ -1,4 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #purple;
+}
 
+#banner {
+    width: 100%;
+    margin: 20px auto;
+}
+
+h1 {
+    text-align:center;
+
+p {
+    margin: 20px 0;
+}
 #titulo {
     text-align: center;
 }
@@ -6,5 +23,4 @@
 .texto {
     color: #181661;
     text-align: center;
-    background-color: #purple;
-}
+    }
